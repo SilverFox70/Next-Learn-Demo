@@ -1,8 +1,10 @@
 # nextjs.org/learn demo content
 
-This repository is meant to be used with the Next.js tutorial on https://nextjs.org/learn.
+This is my clone of the tutorial. See below for the original. 
 
-## Setup
+>This repository is meant to be used with the Next.js tutorial on https://nextjs.org/learn.
+
+## Setup to do this yourself, from scratch:
 
 There are two ways to start using this repository:
 
